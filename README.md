@@ -18,8 +18,8 @@ This project is a web-based e-commerce scraper that fetches product data from a 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ecommerce-scraper.git
-cd ecommerce-scraper
+git clone https://github.com/widiasamosir/scraper-web.git
+cd scraper-web
 ```
 
 ### 2. Install dependencies

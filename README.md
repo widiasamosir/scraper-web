@@ -36,9 +36,10 @@ npm run dev
 1. Open your browser and navigate to `http://localhost:5173/`.
 2. Enter the Ali Express URL for scraping  and (Optional) What you want to analyze with those data and click search.
 ```bash
-https://www.aliexpress.com/ssr/300000556/zQFHEaEPNJ?spm=a2g0o.home.tab.2.617770f46Vy8Kn%26disableNav=YES%26pha_manifest=ssr%26_immersiveMode=true%26_gl=1*8hglg*_gcl_au*MTk4NjY2NDUyMC4xNzQwMzg3NDY5*_ga*MTYzOTQ3Nzk4My4xNzQwMzg3NDY5*_ga_VED1YSGNC7*MTc0MDQwMTEwNS4yLjEuMTc0MDQwMTExMS41NC4wLjA.
+https://www.aliexpress.com/ssr/300000556/zQFHEaEPNJ?spm=a2g0o.home.tab.2.650c76dbd2i9HW&disableNav=YES&pha_manifest=ssr&_immersiveMode=true
 ```
 ![Example Image](public/images/example-main-page.png)
+![Example Image](public/images/example-result-page-0.png)
 ![Example Image](public/images/example-result-page-1.png)
 ![Example Image](public/images/example-result-page-2.png)
 

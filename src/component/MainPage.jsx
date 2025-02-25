@@ -27,7 +27,7 @@ export default function MainPage({url, summarizeText, setUrl, setSummarizeText})
                     onChange={(e) => {
                         setSummarizeText(e.target.value);
                     }}
-                    placeholder="What you want to analyze?"
+                    placeholder="(Optional) What you want to analyze?"
                     className="w-1/4 min-h-40 p-2 border-2 border-gray-300 rounded-lg"
                     maxLength={200}
                     rows={4}
